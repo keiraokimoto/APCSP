@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
 title: Program Design with App Lab by Code.org
 description: This Tech Talk focuses on Program Design and enables the student to build a prototype UI through block or script coding using the AppLab tool by Code.org.
@@ -8,10 +8,12 @@ image: /images/applab-tool.png
 permalink: /techtalk/applab
 categories: [techtalk]
 tags: [javascript]
+type: pbl
+week: 3
 ---
 
 ## AppLab 
-> App Lab is a programming environment where you can make simple apps. Design an app, code in JavaScript with either blocks or text, then share your app with Teacher or Student Peers.  The big limitations of App Lab, that makes it simple, is that the HTML and CSS are not available to developer, thus it is not directly transportable to an independent Web server.
+> App Lab is a programming environment where you can make simple apps. Design an app, code in JavaScript with either blocks or text, then share your app with Teacher or Student Peers.  The big limitations of App Lab, that makes it simple, is that the HTML and CSS are not available to developer/student coder, thus it is not directly transportable to an independent Web server.
 
 <mark>To start</mark>, please create a [code.org](https://studio.code.org/users/sign_in) account and click the [link](https://studio.code.org/projects/applab)
 
@@ -29,7 +31,7 @@ This is an [example](https://studio.code.org/projects/applab/rEkq6_-HMk-W8WkN1Wo
 * What could you do to improve this program?
 
 #### Design
-> Come up with your own idea for 3 question quiz.  You will be creating your own quiz with a partner on a topic of your choice. The most important thing you do before coding is <mark>to PLAN</mark>. Make an outline of the quiz you would like to create before you do any coding. 
+> Come up with your own idea for 3 question quiz.  You will be creating your own quiz with a partner on a topic of your choice. The most important thing you do before coding is <mark>to PLAN</mark>. Make an outline of the quiz you would like to create before you do any coding, do this in your Blog!!!
 
 ### Exploring App Lab
 * Go ahead and take a look at the interface, discuss with a partner what features you see.
