@@ -6,7 +6,7 @@ title: Creative Development Sprint
 description: Creative development is a key skill that Teachers will be looking at through the year.  The development process requires inspiration, research, and go both inside and outside the box.  At these early stages of development it is about pair programming, collaborating with each other and teacher, and responding to change.
 permalink: /week/3
 image: /images/agile_manifesto.jpeg
-categories: [tri1]
+categories: []
 type: plan
 week: 3
 ---
@@ -22,8 +22,8 @@ week: 3
 
 ### Weekly Schedule
 - Tuesday (makeup Monday): PBL review below; "Live Review" with pairs: show personal progress in ideation and prototyping.
-- Wednesday: Test Prep - Discuss Create Performance Task.  
-- Thursday: Tech Talk - Code.org AppLab
+- Wednesday: Test Prep - Code.org AppLab, Finish live review  
+- Thursday: Tech Talk - Discuss Create Performance Task.
 - Friday: Crossover Review last 15-20 minutes with crossover grading 
 
 ### PBL Ideation

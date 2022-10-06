@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Setting up a Flask/Python project.  Flask is a Web Application framework written in Python.
-categories: [markdown]
+categories: [5.A]
 title: Flask/Python Web Application
 image: /images/flask.png
 type: pbl
@@ -13,7 +13,7 @@ week: 4
 > Next up is making a Web Application from a completely customizable framework and language.  This project will focus on building a standalone Web Application.  The intentions are to use this framework for Group work and backend work.  At the conclusion of this article this project will only be run locally.  Ultimately, this project will be hosted on AWS.  
 - Flask is the Web Application Framework.
 - Python will be the Backend Development languages.
-- Jinja2 is the Web Template language, that work well with Jinja2.
+- Jinja2 is the Web Template language, that work well with Flask and Python.
 - HTML, CSS, JavaScript will support frontend work built into the Flask project.
 - The external Fastpages/Github Pages project will use the Flask/Python project for backend services, like persistent data or databases (ie SQL).
 
